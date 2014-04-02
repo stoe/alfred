@@ -15,11 +15,11 @@
 	<key>cornerRoundness</key>
 	<integer>2</integer>
 	<key>credits</key>
-	<string>Stefan Stölzle</string>
+	<string>@me_stoe</string>
 	<key>imageStyle</key>
 	<integer>8</integer>
 	<key>name</key>
-	<string>Sencha Dark</string>
+	<string>stoe dark</string>
 	<key>resultPaddingSize</key>
 	<integer>1</integer>
 	<key>resultSelectedBackgroundColor</key>
@@ -101,7 +101,7 @@
 	ZmZmg/Py8j6Dm5oaP4OhoKA8AYY=
 	</data>
 	<key>uid</key>
-	<string>alfred.theme.custom.4FB1660D-3F9D-4B55-A90E-A546A03AEA91</string>
+	<string>alfred.theme.custom.66076B79-2955-4B84-A6DA-3FD3E40A828A</string>
 	<key>widthSize</key>
 	<integer>2</integer>
 </dict>
