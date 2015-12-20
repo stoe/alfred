@@ -5,12 +5,12 @@
 	<key>background</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg3sULj6DexQuPoN7FC4+g2ZmZj+G
+	ZmZmg4apaj+DuadqP4O+qGo/g83MTD+G
 	</data>
 	<key>border</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg3sULj6DexQuPoN7FC4+AIY=
+	ZmZmg81VSz6DPlRLPoMgVUs+AIY=
 	</data>
 	<key>cornerRoundness</key>
 	<integer>2</integer>
@@ -19,60 +19,60 @@
 	<key>imageStyle</key>
 	<integer>8</integer>
 	<key>name</key>
-	<string>stoe dark</string>
+	<string>stoe material light</string>
 	<key>resultPaddingSize</key>
-	<integer>1</integer>
+	<integer>0</integer>
 	<key>resultSelectedBackgroundColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg/Py8j6Dm5oaP4OhoKA8AIY=
+	ZmZmg4apaj+DuadqP4O+qGo/AIY=
 	</data>
 	<key>resultSelectedSubtextColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg/Py8j6Dm5oaP4OhoKA8AYY=
+	ZmZmg7jk8D2DntQAP4MQh3A/AYY=
 	</data>
 	<key>resultSelectedTextColor</key>
 	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMDhAJm
-	ZgEBhg==
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmg81VSz6DPlRLPoMgVUs+AYY=
 	</data>
 	<key>resultSubtextColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAIORkJA+g+/u7j4Bhg==
+	ZmZmgwL6nD6DK0rUPoNxIvE+AYY=
 	</data>
 	<key>resultSubtextFont</key>
-	<string>Futura</string>
+	<string>Helvetica</string>
 	<key>resultSubtextFontSize</key>
 	<integer>0</integer>
 	<key>resultTextColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg+Zqrj6D5mquPoPmaq4+AYY=
+	ZmZmg9MxxD6DUjDEPoMtMcQ+AYY=
 	</data>
 	<key>resultTextFont</key>
-	<string>Futura</string>
+	<string>Helvetica</string>
 	<key>resultTextFontSize</key>
 	<integer>2</integer>
 	<key>scrollbarColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg/Py8j6Dm5oaP4OhoKA8gwAAAD+G
+	ZmZmg+6RjT2DjqAHP4M9O18/AYY=
 	</data>
 	<key>searchBackgroundColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAAAAAIY=
+	ZmZmg4apaj+DuadqP4O+qGo/AIY=
 	</data>
 	<key>searchFont</key>
-	<string>Futura</string>
+	<string>Helvetica</string>
 	<key>searchFontSize</key>
 	<integer>4</integer>
 	<key>searchForegroundColor</key>
 	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMDhAJm
-	ZgEBhg==
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmg81VSz6DPlRLPoMgVUs+AYY=
 	</data>
 	<key>searchPaddingSize</key>
 	<integer>0</integer>
@@ -89,19 +89,19 @@
 	<key>shortcutColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg+Zqrj6D5mquPoPmaq4+AYY=
+	ZmZmg9MxxD6DUjDEPoMtMcQ+AYY=
 	</data>
 	<key>shortcutFont</key>
-	<string>Futura</string>
+	<string>Helvetica</string>
 	<key>shortcutFontSize</key>
 	<integer>1</integer>
 	<key>shortcutSelectedColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg/Py8j6Dm5oaP4OhoKA8AYY=
+	ZmZmg+6RjT2DjqAHP4M9O18/AYY=
 	</data>
 	<key>uid</key>
-	<string>alfred.theme.custom.66076B79-2955-4B84-A6DA-3FD3E40A828A</string>
+	<string>alfred.theme.custom.FD9B6857-1746-47FC-AA30-19E45E2AC1D4</string>
 	<key>widthSize</key>
 	<integer>2</integer>
 </dict>
