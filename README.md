@@ -1,58 +1,41 @@
-[Alfred App](http://www.alfredapp.com/)
+# Alfred Workflows
 
-# Workflows
+## Workflows
+The workflows I use with [Alfred App][@alfredapp]
 
-## terminal
-* `terminal` iTerm2
-* `terminal + ⌃` Terminal
+### About This Mac
+[About This Mac](http://www.alfredforum.com/topic/2025-about-this-mac/) by Rodger WW
 
-![terminal](./screenshots/terminal.png)
+### apps
+Hotkeys for
+* [Atom](https://atom.io/)
+* [Commander One](http://mac.eltima.com/file-manager.html)
+* [iTerm](https://www.iterm2.com/)
 
-## Chrome
-* `gc` Google Chrome
-
-![Google Chrome](./screenshots/gc.png)
-
-* `gcc` Google Chrome Canary
-
-![Google Chrome Canary](./screenshots/gcc.png)
-
+### Chrome
 * `gci` Google Chrome (Incognito)
 
-![Google Chrome (Incognito)](./screenshots/gci.png)
+* `gcc` Open clean installed *webkit* browser - no extensions, no sync
+    * `gcc` Google Chrome
+    * `gcc + ⌃` Google Chrome Canray
+    * `gcc + ⌥` Chromium
 
-* Open clean installed *webkit* browser - no extensions, no sync
-    * `cc` Google Chrome Canray
-    * `cc + ⌃` Google Chrome
-    * `cc + ⌥` Chromium
+### GitHub commands
+[GitHub commands](https://github.com/gharlan/alfred-github-workflow) by [@gharlan](https://github.com/gharlan)
 
-![Google Chrome (clean)](./screenshots/cc.png)
+### Hidden Files (customized)
+Original [Toggle Hidden Files](http://www.packal.org/workflow/toggle-hidden-files) by [@milanvanzanten](https://github.com/milanvanzanten)
 
-## Tizen
-* Tizen Emulator
-    * `tizen` Tizen Emulator (mobile)
-    * `tizen + ⌃` Tizen IDE (wearables)
-* Tizen IDE
-    * `tizen` Tizen IDE (mobile)
-    * `tizen + ⌃` Tizen IDE (wearables)
+### Keeping You Awake (customized)
+Original [Activate Keeping You Awak](http://www.packal.org/workflow/activate-keeping-you-awake) by [@KyleKing](https://github.com/KyleKing)
 
-![Tizen](./screenshots/tizen.png)
+## Themes
+The themes I use with [Alfred App][@alfredapp]
 
-## iOS Simulator
-* `ios` iOS Simulator
+### Material Dark
+![Material Dark](./assets/material-dark.png)
 
-![iOS Simulator](./screenshots/ios.png)
+### Material Light
+![Material Light](./assets/material-light.png)
 
-## Android SDK
-
-![Android SDK](./screenshots/android.png)
-
-## Start Me Up
-* `smu` Start Me Up
-* `smu dev` Start Me Up + development tools
-* `smu msg` Start Me Up + messaging apps
-
-![Start Me Up](./screenshots/smu.png)
-
-# Theme
-![Sencha Dark](./screenshots/theme.png)
+[@alfredapp]: http://www.alfredapp.com/
